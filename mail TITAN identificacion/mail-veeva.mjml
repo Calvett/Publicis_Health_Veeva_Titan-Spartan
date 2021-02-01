@@ -1,0 +1,199 @@
+<mjml owa="desktop" version="4.6.3">
+  <mj-head>
+    <mj-preview></mj-preview>
+    <mj-font href="https://fonts.googleapis.com/css?family=Geneva" name="Geneva"></mj-font>
+     <mj-style>
+       .padding_mobile_box {
+         padding: 0 42px;
+         box-sizing: border-box;
+       }
+       .padding_box {
+         padding: 0 0 10px 0;
+       }
+       @media only screen and (max-width: 600px) {
+          .mobile_10 {
+            width: 10% !important;
+           }
+          .mobile_90 {
+            width: 90% !important;
+           }
+          .mobile_60px {
+            width: 60px !important;
+           }
+           .padding_mobile {
+             padding: 0 20px !important;
+           }
+           .padding_mobile_0 {
+             padding: 0 !important;
+           }
+           .padding_mobile_box {
+             padding: 0px;
+             max-width:320px !important;
+           }
+
+           .padding_box_sp {
+             padding: 12px !important;
+           }
+        }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#F4F4F4" >
+    <mj-section background-color="#ffffff" background-repeat="repeat" border="0px solid #ffffff" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" text-align="center" >
+      <mj-column>
+        <mj-text align="left" color="#000000" font-family="Verdana, sans-serif" font-size="9px" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+          <h3 class="text-build-content" style="text-align:center; margin-top: 10px; margin-bottom: 10px" data-testid="0AcfZftNq"><span style="color:#333333;font-family:Verdana;font-size:9px;line-height:15px;">YA DISPONIBLE
+            </span></h3>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" border="0px solid #ffffff" padding="0 0 32px 0" text-align="center">
+      <mj-column>
+        <mj-image align="right" alt="Primera y única NHT disponible para todos los pacientes CPHSm " border="none" height="auto" href="" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-lanzamiento-erleaada.jpg" target="_blank" title="" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" margin="" padding="" text-align="center" css-class="padding_mobile_box">
+      <mj-column background-color="#eef2f7" padding="">
+        <mj-text align="left" color="#7798bc" line-height="18px" font-family="Verdana, sans-serif" font-size="14px"  padding="16px 26px" css-class="padding_box_sp">
+            Desde el 1 de febrero, Erleada® <span style="font-weight: bold; color: #7798bc;font-size:18px;text-transform: uppercase;">ya está disponible</span> para los pacientes con CPHSm<sup>2</sup>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" margin="" padding="" text-align="center" css-class="padding_mobile_box">
+      <mj-column width="100%" >
+        <mj-section background-color="#eef2f7" background-repeat="repeat" background-size="auto" margin="" padding="0 0 0 0" text-align="center" css-class="padding_box">
+          <mj-column width="10%" css-class="mobile_10" >
+            <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-icon-tick.gif" title="" ></mj-image>
+          </mj-column>
+          <mj-column width="90%" css-class="mobile_90">
+            <mj-text align="left" color="#7798bc" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
+              <p class="text-build-content" data-testid="fuMEp64KoC-_" style="margin: 0; margin-top: 0px; margin-bottom: 0px; line-height:20px;color:#7798bc;">
+                En <span style="font-weight: bold; color: #7798bc;">recaída</span> tras un diagnóstico de enfermedad <span style="font-weight: bold; color: #7798bc;">local</span> oenfermedad metastásica de <span style="font-weight: bold; color: #7798bc;">novo</span>
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" margin="" padding="" text-align="center" css-class="padding_mobile_box">
+      <mj-column width="100%" >
+        <mj-section background-color="#eef2f7" background-repeat="repeat" background-size="auto" margin="" padding="0" text-align="center" css-class="padding_box">
+          <mj-column width="10%" css-class="mobile_10" >
+            <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-icon-tick.gif" title="" ></mj-image>
+          </mj-column>
+          <mj-column width="90%" css-class="mobile_90">
+            <mj-text align="left" color="#7798bc" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
+              <p class="text-build-content" data-testid="fuMEp64KoC-_" style="margin: 0; margin-top: 0px; margin-bottom: 0px; line-height:20px;color:#7798bc;">
+                Enfermedad de <span style="font-weight: bold; color: #7798bc;">alto</span> o <span style="font-weight: bold; color: #7798bc;">bajo volumen</span>
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" margin="" padding="" text-align="center" css-class="padding_mobile_box">
+      <mj-column width="100%" >
+        <mj-section background-color="#eef2f7" background-repeat="repeat" background-size="auto" margin="" padding="0 0 16px 0" text-align="center" css-class="padding_box">
+          <mj-column width="10%" css-class="mobile_10" >
+            <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-icon-tick.gif" title="" ></mj-image>
+          </mj-column>
+          <mj-column width="90%" css-class="mobile_90">
+            <mj-text align="left" color="#7798bc" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
+              <p class="text-build-content" data-testid="fuMEp64KoC-_" style="margin: 0; margin-top: 0px; margin-bottom: 0px; line-height:20px;color:#7798bc;">
+                <span style="font-weight: bold; color: #7798bc;">Con</span> o <span style="font-weight: bold; color: #7798bc;">sin</span> tratamiento previo con <span style="font-weight: bold; color: #7798bc;">docetaxel</span>
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+
+
+
+    <mj-section background-color="white" background-size="auto" padding-bottom="0px" padding-top="10px" padding="0px 0 20px 0" text-align="center">
+        <mj-column css-class="cta_wrapper" width="85%">
+          <mj-text align="center" color="#7798bc" font-family="Verdana, sans-serif" font-size="17px"  padding-bottom="20px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 20px 25px">
+            <span style="font-weight: bold; color: #7798bc;font-size:17px;display:block;">
+              Si quieres saber más sobre cómo identificar alos pacientes candidatos a recibir Erleada<sup>®</sup>:
+            </span>
+          </mj-text>
+          <mj-button href="http://www.janssenmedicalcloud.es/product/erleada/titan/pacientes?utm_source=iconnect&utm_medium=email&codsId={{Account.CODS_External_Id__c}}&emailId={{Approved_Document_vod__c.Vault_Document_ID_vod__c}}&utm_campaign={{Approved_Document_vod__c.Vault_Document_ID_vod__c}}&ea=1bd5c53d-c9d7-4895-857c-e49a8811990e" align="center" background-color="#7798bc" border-radius="0px" border="0px solid #ffffff" color="#ffffff" font-family="Verdana, sans-serif" font-size="18px" font-weight="normal" inner-padding="10px 25px 10px 25px"  padding="0" text-decoration="none" text-transform="none" vertical-align="middle">
+            <span style="font-size:18px;font-weight:bold;line-height:24px;">HAZ CLIC AQUÍ</span>
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="20px 0px 0px 0px" text-align="center" >
+      <mj-column>
+        <mj-text align="left" color="#000000" font-family="Verdana, sans-serif" font-size="13px"  padding-bottom="0px" padding-left="25px" padding-right="25px" padding-top="0px" padding="0px 25px 0px 25px">
+          <p class="text-build-content" data-testid="fuMEp64KoC-_" style="margin: 10px 0; margin-top: 10px; margin-bottom: 10px;">
+            <span style="color:#333333;font-family:Verdana;font-size:14px;line-height:20px;">
+              Esperamos que esta información sea de interés.<br>
+              Para descubrir más recursos y sevicios como este, te animamos a entrar en <strong style="color:#003466;">Janssen Medical Cloud.</strong>
+            </span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" border="0px solid #ffffff" padding-left="0px" padding-right="0px" padding-top="5px" padding="5px 0px 0px 0px" text-align="center" >
+      <mj-column>
+        <mj-text align="left" color="#000000" font-family="Verdana, sans-serif" font-size="14px" letter-spacing="normal" padding-bottom="10px" padding-top="10px" padding="0px 25px 0px 25px">
+            <span style="color:#333333;font-family:Verdana;font-size:14px;line-height:20px;">Un cordial saludo,<br></span>
+              <span style="color:#333333;font-family:Verdana;font-size:14px;line-height:20px;display:block;">Equipo Janssen Oncology</span>
+              <span style="color:#333333;font-family:Verdana;font-size:14px;line-height:20px;">{{userName}}</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#ffffff" background-repeat="repeat" border="0px solid #ffffff" padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" text-align="center" >
+      <mj-column>
+        <mj-text align="justify" color="#333333" font-family="Verdana, sans-serif" font-size="12px" line-height="16px" padding-bottom="0px" padding-top="10px" padding="10px 25px">
+          Ficha técnica de Erleada® disponible <a href="" target="_blank">aquí</a>.<br>
+          ▼ Este medicamento está sujeto a seguimiento adicional, es prioritaria la notificación de sospechas de reacciones adversas a este medicamento.<br><br>
+          TITAN es un estudio fase III, aleatorizado, doble ciego, controlado con placebo, multinacional que evaluó Erleada® + TDA vs. placebo + TDA en pacientes con cáncer de próstata sensible a la castración metastásico.<sup>2</sup><br><br>
+          <sup>*</sup>Erleada® está indicado en hombres adultos para el tratamiento del cáncer de próstata hormonosensible metastásico (CPHSm) en combinación con tratamiento de deprivación androgénica (TDA).<sup>1</sup><br><br>
+          <strong>CPHSm</strong>: cáncer de próstata hormonosensible metastásico; <strong>NHT</strong>: <i>new hormonal therapy</i>; <strong>TDA</strong>: terapia de deprivación androgénica.<br><br>
+          <strong>Referencias</strong>: <strong>1</strong>. Ficha Técnica Erleada®. <strong>2</strong>. Chi KN, et al. Apalutamide for Metastatic, Castration-Sensitive Prostate Cancer. N Engl J Med. 2019;81(1):13–24.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="" background-repeat="repeat" border="0px solid #ffffff" padding-left="0px" padding-right="0px" padding="0px" text-align="center" >
+      <mj-column padding="0">
+        <mj-image align="center" alt="Janssen Oncology parmaceutical companies of Johnson & Johnson " border="none" height="auto" href="" padding="0" src="http://development.pdg.studio/veeva/images/veeva-lanzamiento-erleaada_06.gif"
+          target="_blank" title="" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" background-repeat="repeat" border="0px solid #ffffff" padding="20px 0px 10px 0px" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="left" color="#000000" font-family="Verdana, sans-serif" line-height="15px" font-size="9px" letter-spacing="normal" padding-bottom="0px" padding-left="25px" padding-right="25px" padding-top="0px" padding="0px 25px 0px 25px">
+          <b>Aviso de Confidencialidad:</b>
+              Este e-mail y sus eventuales anexos pueden contener información confidencial o protegida legalmente que va dirigida exclusivamente a la persona o entidad que aparece como destinatario en la dirección de este e-mail. Si usted no es dicho destinatario, queda avisado de que cualquier revelación, copia, distribución, utilización o divulgación de los contenidos de este e-mail está terminantemente prohibida. Si ha recibido este mensaje por error, le rogamos que nos lo comunique para que podamos realizar su adecuado envío y que elimine por favor el mensaje de cualquier ordenador. Gracias. Usted ha recibido este mensaje porque es usuario registrado en alguna de las webs de Janssen-Cilag, S.A. y/o nos ha facilitado su cuenta de correo para recibir comunicaciones comerciales de forma electrónica. Al aceptar recibir nuestras comunicaciones, usted ha autorizado expresamente la recogida y tratamiento de sus datos personales por Janssen-Cilag S.A. como responsable del tratamiento, para la gestión integral de la relación comercial y profesional que mantenemos con usted, así como para el envío de información médica, científica, y promocional de nuestros servicios y productos que pueda resultar de su interés. Con base en nuestro legítimo interés, podremos también crear un perfil sobre usted para ofrecerle un mejor servicio, compilar datos estadísticos en nuestras bases de datos, y realizar encuestas, cuestionarios de valoración de la experiencia de cliente, y comunicaciones similares. Compartiremos su información personal con nuestras filiales, proveedores de servicios y terceros que utilizamos para la gestión de nuestro negocio, como proveedores de tecnología, y servicios digitales/de marketing, con los que tenemos un contrato en vigor. Su información personal se trasferirá a países fuera del de su residencia, incluyendo los Estados Unidos, que pueden tener normas de protección de datos distintas de las existentes en su propio país. La lista de nuestras filiales está disponible en http://www.investor.jnj.com/sec.cfm. Los datos se transferirán con las garantías adecuadas, tanto contractuales, como de otra naturaleza, para proteger su información personal. Usted podrá revocar su consentimiento cuando lo desee. Para revisar, corregir, actualizar, restringir o eliminar la Información Personal, o solicitar una copia electrónica (según lo permita la ley aplicable), puede enviarse comunicación escrita con una copia del DNI/NIE a Janssen-Cilag, S.A., Paseo de las Doce Estrellas, 5-7, 28042, Madrid, o a infojaces@its.jnj.com (Ref.: Secretaría General/Protección de Datos). Los datos se conservarán durante la presente relación contractual o de negocio, o más tiempo si existe habilitación para ello (obligaciones legales que requieran mantener los datos, e.g.). Janssen ha designado un Delegado de Protección de Datos, disponible en emeaprivacy@its.jnj.com. Puede formular una queja ante la Agencia Española de Protección de Datos, en la calle Jorge Juan 6, 28001, Madrid.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" border="0px solid #ffffff" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" text-align="center" vertical-align="top">
+        <mj-column width="66%">
+          <mj-text align="left" color="#000000" font-family="Verdana, sans-serif" font-size="9px" letter-spacing="normal" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+            <p class="text-build-content" data-testid="16JttyNWX" style="margin: 10px 0; margin-top: 10px; margin-bottom: 10px;"><span style="color:#333333;font-family:Verdana;font-size:9px;">Janssen-Cilag, S.A. © JC 2020
+              </span></p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="33%">
+          <mj-text align="left" color="#000000" font-family="Verdana, sans-serif" font-size="9px" letter-spacing="normal" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+            <p class="text-build-content" style="text-align: right; margin: 10px 0; margin-top: 10px; margin-bottom: 10px;" data-testid="vSXfDnn0v"><span style="color:#333333;font-family:Verdana;font-size:9px;">CP-202642 Enero 2021</span></p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    <mj-section background-repeat="repeat" padding="20px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column padding="0">
+        <mj-text align="center" color="#000000" font-family="Verdana, sans-serif" font-size="1px" letter-spacing="normal" line-height="22px" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+          <p class="text-build-content" data-testid="zPwa-zjJP_w" style="margin: 10px 0; margin-top: 10px; margin-bottom: 10px;"><span style="color:#f4f4f4;">Este email fue enviado a [[EMAIL_TO]], </span><a class="link-build-content" target="_blank"
+              href="[[UNSUB_LINK_ES]]"><span style="color:#f4f4f4;"><u>pulse aquí para cancelar la suscripción</u></span></a><span style="color:#f4f4f4;">.</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
