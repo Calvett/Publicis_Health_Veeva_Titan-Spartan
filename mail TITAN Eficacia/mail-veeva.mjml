@@ -3,6 +3,10 @@
     <mj-preview></mj-preview>
     <mj-font href="https://fonts.googleapis.com/css?family=Geneva" name="Geneva"></mj-font>
      <mj-style>
+
+       .padding_mobile_box {
+         padding: 0 60px 25px 60px;
+       }
        @media only screen and (max-width: 600px) {
           .mobile_10 {
             width: 10% !important;
@@ -10,14 +14,17 @@
           .mobile_90 {
             width: 90% !important;
            }
-          .mobile_60px {
-            width: 60px !important;
+          .mobile_80px {
+            width: 80px !important;
            }
            .padding_mobile {
              padding: 0 20px !important;
            }
            .padding_mobile_0 {
              padding: 0 !important;
+           }
+           .padding_mobile_box {
+             padding: 0 20px 25px 20px !important;
            }
         }
     </mj-style>
@@ -26,14 +33,15 @@
     <mj-section background-color="#ffffff" background-repeat="repeat" border="0px solid #ffffff" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" text-align="center" >
       <mj-column>
         <mj-text align="left" color="#000000" font-family="Verdana, sans-serif" font-size="9px" padding-bottom="0px" padding-top="0px" padding="10px 25px">
-          <h3 class="text-build-content" style="text-align:center; margin-top: 10px; margin-bottom: 10px" data-testid="0AcfZftNq"><span style="color:#333333;font-family:Verdana;font-size:9px;line-height:15px;">YA DISPONIBLE
+          <h3 class="text-build-content" style="text-align:center; margin-top: 10px; margin-bottom: 10px" data-testid="0AcfZftNq"><span style="color:#333333;font-family:Verdana;font-size:9px;line-height:15px;">
+            Resultados de eficacia
             </span></h3>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" border="0px solid #ffffff" padding="0" text-align="center">
       <mj-column>
-        <mj-image align="right" alt="Primera y única NHT disponible para todos los pacientes CPHSm EL PODER DE RETRASAR LA PROGRESIÓN CUANTO ANTES" border="none" height="auto" href="" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-lanzamiento-erleaada.jpg" target="_blank" title="" width="600px"></mj-image>
+        <mj-image align="right" alt="Primera y única NHT disponible para todos los pacientes CPHSm EL PODER DE RETRASAR LA PROGRESIÓN CUANTO ANTES" border="none" height="auto" href="" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/titan_eficiencia/images/veeva-lanzamiento-erleaada.jpg" target="_blank" title="" width="600px"></mj-image>
       </mj-column>
     </mj-section>
 
@@ -41,7 +49,7 @@
       <mj-column>
         <mj-text align="left" color="#000000" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="45px" padding-right="45px" padding-top="0px" padding="0px 25px 0px 25px"  css-class="padding_mobile">
           <p class="text-build-content" data-testid="fuMEp64KoC-_" style="margin: 0; margin-top: 30px; margin-bottom: 10px; line-height:20px;color:#5b5b5f;">
-            Desde el 1 de febrero, Erleada® <span style="font-size: 18px; font-weight: bold; color: #7798bc;text-transform:uppercase;">ya está disponible</span><br>para todos los <span style="font-weight: bold; color: #7798bc;"> pacientes con CPHSm:*</span>
+            Desde el 1 de febrero, Erleada<sup>®</sup> <span style="font-size: 18px; font-weight: bold; color: #7798bc;text-transform:uppercase;">ya está disponible</span><br>para todos los <span style="font-weight: bold; color: #7798bc;"> pacientes con CPHSm:*</span>
           </p>
         </mj-text>
       </mj-column>
@@ -49,19 +57,20 @@
 
     <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="0 45px 0px 45px" text-align="center"  css-class="padding_mobile_0">
       <mj-column width="10%" css-class="mobile_10">
-        <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-icon-tick.gif" title="" ></mj-image>
+        <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/titan_eficiencia/images/veeva-icon-tick.gif" title="" ></mj-image>
       </mj-column>
       <mj-column width="90%" css-class="mobile_90">
         <mj-text align="left" color="#000000" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
           <p class="text-build-content" data-testid="fuMEp64KoC-_" style="margin: 0; margin-top: 0px; margin-bottom: 0px; line-height:20px;color:#5b5b5f;">
-            En <span style="font-weight: bold; color: #7798bc;">recaída</span> tras un diagnóstico de <span style="font-weight: bold; color: #7798bc;">enfermedad local oenfermedad metastásica de novo<sup>1</sup></span>
+            En <span style="font-weight: bold; color: #7798bc;">recaída</span> tras un diagnóstico de <span style="font-weight: bold; color: #7798bc;">enfermedad local o enfermedad metastásica de novo<sup>1</sup></span>
           </p>
         </mj-text>
+        <mj-divider padding="0 0 10px 0" border-style="" border-color="" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="0 45px 0px 45px" text-align="center" css-class="padding_mobile_0">
       <mj-column width="10%" css-class="mobile_10">
-        <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-icon-tick.gif" title="" ></mj-image>
+        <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/titan_eficiencia/images/veeva-icon-tick.gif" title="" ></mj-image>
       </mj-column>
       <mj-column width="90%" css-class="mobile_90">
         <mj-text align="left" color="#000000" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
@@ -69,11 +78,12 @@
             Enfermedad de <span style="font-weight: bold; color: #7798bc;">alto o bajo volumen<sup>1</sup></span>
           </p>
         </mj-text>
+        <mj-divider padding="0 0 10px 0" border-style="" border-color="" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="0 45px 0px 45px" text-align="center" css-class="padding_mobile_0">
       <mj-column width="10%" css-class="mobile_10">
-        <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-icon-tick.gif" title="" ></mj-image>
+        <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/titan_eficiencia/images/veeva-icon-tick.gif" title="" ></mj-image>
       </mj-column>
       <mj-column width="90%" css-class="mobile_90">
         <mj-text align="left" color="#000000" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
@@ -81,61 +91,52 @@
             <span style="font-weight: bold; color: #7798bc;">Con</span> o <span style="font-weight: bold; color: #7798bc;">sin</span> tratamiento previo con <span style="font-weight: bold; color: #7798bc;">docetaxel<sup>1</sup></span>
           </p>
         </mj-text>
+        <mj-divider padding="0 0 10px 0" border-style="" border-color="" />
       </mj-column>
     </mj-section>
   <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="0 0px 20px 0px" text-align="center" >
       <mj-column>
         <mj-text align="left" color="#000000" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="45px" padding-right="45px" padding-top="0px" padding="0px 25px 0px 25px" css-class="padding_mobile">
           <p class="text-build-content" data-testid="fuMEp64KoC-_" style="margin: 0; margin-top: 20px; margin-bottom: 10px; line-height:20px;color:#5b5b5f;">
-            En el primer análisis intermedio con 22,7 meses de seguimiento, Erleada® demostró <span style="font-weight: bold; color: #7798bc;font-size:18px;">beneficio significativo</span> en susdos <span style="font-weight: bold; color: #7798bc;font-size:18px;">objetivos primarios: rPFS y OS<sup>1</sup></span>
+            En el primer análisis intermedio con 22,7 meses de seguimiento, Erleada<sup>®</sup> demostró <span style="font-weight: bold; color: #7798bc;font-size:18px;">beneficio significativo</span> en sus dos <span style="font-weight: bold; color: #7798bc;font-size:18px;">objetivos primarios: rPFS y OS<sup>1</sup></span>
           </p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#eef2f7" background-repeat="repeat" background-size="auto" padding="25px 29px 10px 29px" text-align="center" css-class="">
       <mj-column>
-        <mj-text align="center" color="#000000" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="20px" padding-left="45px" padding-right="45px" padding-top="0px" padding="0px 25px 0px 25px" css-class="padding_mobile">
+        <mj-text align="center" color="#000000" font-family="Verdana, sans-serif" font-size="14px" padding="0px 25px 10px 25px" css-class="padding_mobile">
           <p class="text-build-content" data-testid="fuMEp64KoC-_" style="margin: 0; line-height:20px;color:#7798bc;">
-            <span style="font-weight: bold; color: #7798bc;font-size:17px;display:block;margin:0;text-transform: uppercase;margin:0 0 10px 0">Respecto a los resultados de OS:</span>
-            ¿Cuál es el porcentaje de reducción del riesgo de muerte quese alcanzó en el estudio TITAN?
+            <span style="font-weight: bold; color: #7798bc;font-size:17px;display:block;margin:0;text-transform: uppercase;margin:0">Respecto a los resultados de OS:</span>
+          </p>
+        </mj-text>
+          <mj-text align="center" color="#000000" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="20px" padding-left="45px" padding-right="45px" padding-top="0px" padding="0px 25px 0px 25px" css-class="padding_mobile">
+            <p class="text-build-content" data-testid="fuMEp64KoC-_" style="margin: 0; line-height:20px;color:#7798bc;">
+              ¿Cuál es el porcentaje de reducción del riesgo de muerte que se alcanzó en el estudio TITAN?
           </p>
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#eef2f7" background-repeat="repeat" background-size="auto" padding="0 60px 25px 60px" text-align="center" >
-      <mj-column width="80px" css-class="mobile_60px">
-        <mj-image align="center" alt="Icono cuadrado" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-icon-box.gif" title="" ></mj-image>
-        <mj-text align="center" color="#000000" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
-          <p class="text-build-content" data-testid="fuMEp64KoC-_" style="margin: 0; margin-top: 0px; margin-bottom: 0px; line-height:20px;color:#5b5b5f;">
-            <span style="font-weight: bold; color: #7798bc;font-size:17px;">10%</span>
-          </p>
-        </mj-text>
+    <mj-section background-color="#eef2f7" background-repeat="repeat" background-size="auto" padding="" text-align="center" css-class="padding_mobile_box">
+      <mj-column width="80px" css-class="mobile_80px">
+        <mj-image align="center" alt="Icono 10%" border="none" width="78px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/titan_eficiencia/images/veeva-icon-box-10.gif" title="" ></mj-image>
       </mj-column>
-      <mj-column width="80px" css-class="mobile_60px">
-        <mj-image align="center" alt="Icono cuadrado" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-icon-box.gif" title="" ></mj-image>
-        <mj-text align="center" color="#000000" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
-          <p class="text-build-content" data-testid="fuMEp64KoC-_" style="margin: 0; margin-top: 0px; margin-bottom: 0px; line-height:20px;color:#5b5b5f;">
-            <span style="font-weight: bold; color: #7798bc;font-size:17px;">23%</span>
-          </p>
-        </mj-text>
+      <mj-column width="80px" css-class="mobile_80px">
+        <mj-image align="center" alt="Icono 23%" border="none" width="78px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/titan_eficiencia/images/veeva-icon-box-23.gif" title="" ></mj-image>
       </mj-column>
-      <mj-column width="80px" css-class="mobile_60px">
-        <mj-image align="center" alt="Icono cuadrado" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-icon-box.gif" title="" ></mj-image>
-        <mj-text align="center" color="#000000" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
-          <p class="text-build-content" data-testid="fuMEp64KoC-_" style="margin: 0; margin-top: 0px; margin-bottom: 0px; line-height:20px;color:#5b5b5f;">
-            <span style="font-weight: bold; color: #7798bc;font-size:17px;">33%</span>
-          </p>
-        </mj-text>
+      <mj-column width="80px" css-class="mobile_80px">
+        <mj-image align="center" alt="Icono 33%" border="none" width="78px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/titan_eficiencia/images/veeva-icon-box-33.gif" title="" ></mj-image>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="white" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center">
         <mj-column css-class="cta_wrapper">
           <mj-text align="center" color="#000000" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
-            <p class="text-build-content" data-testid="fuMEp64KoC-_" style="margin: 0 0 10px 0; line-height:20px;color:#5b5b5f;">
-              <span style="font-weight: bold; color: #7798bc;font-size:17px;display:block;margin:0 0 10px 0;text-transform: uppercase;margin:0 ;">Para conocer la respuesta:</span>
+            <p class="text-build-content" data-testid="fuMEp64KoC-_" style="margin: 0; line-height:20px;color:#5b5b5f;">
+              <span style="font-weight: bold; color: #7798bc;font-size:17px;display:block;margin:0 ;text-transform: uppercase;">Para conocer la respuesta:</span>
             </p>
           </mj-text>
+          <mj-divider padding="0 0 10px 0" border-style="" border-color="" />
           <mj-button href="http://www.janssenmedicalcloud.es/product/erleada/titan/objetivos-primarios?utm_source=iconnect&utm_medium=email&codsId={{Account.CODS_External_Id__c}}&emailId={{Approved_Document_vod__c.Vault_Document_ID_vod__c}}&utm_campaign={{Approved_Document_vod__c.Vault_Document_ID_vod__c}}&ea=1bd5c53d-c9d7-4895-857c-e49a8811990e" align="center" background-color="#7798bc" border-radius="0px" border="0px solid #ffffff" color="#ffffff" font-family="Verdana, sans-serif" font-size="18px" font-weight="normal" inner-padding="10px 25px 10px 25px"  padding="0" text-decoration="none" text-transform="none" vertical-align="middle">
             <span style="font-size:18px;font-weight:bold;line-height:24px;">HAZ CLIC AQUÍ</span>
           </mj-button>
@@ -168,19 +169,19 @@
     <mj-section background-color="#ffffff" background-repeat="repeat" border="0px solid #ffffff" padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" text-align="center" >
       <mj-column>
         <mj-text align="justify" color="#333333" font-family="Verdana, sans-serif" font-size="10px" line-height="15px" padding-bottom="0px" padding-top="10px" padding="10px 25px">
-          Ficha técnica de Erleada® disponible <a href="" target="_blank">aquí</a>.<br>
+          Ficha técnica de Erleada<sup>®</sup> disponible <a href="https://www.janssenmedicalcloud.es/product/erleada/ficha-tecnica?ea=1bd5c53d-c9d7-4895-857c-e49a8811990e" target="_blank">aquí</a>.<br>
             ▼ Este medicamento está sujeto a seguimiento adicional, es prioritaria la notificación de sospechas de reacciones adversas a este medicamento.<br></br>
-          TITAN es un estudio fase III, aleatorizado, doble ciego, controlado con placebo, multinacional que evaluó Erleada® + TDA vs. placebo + TDA en pacientes con cáncer de próstata sensible a la castración metastásico.<sup>1</sup><br></br>
-          <sup>σ</sup>Mediana de rPFS no alcanzada con Erleada® + TDA vs. 22,1 meses con placebo + TDA (HR: 0,48; IC 95%: 0,39-0,60; p<0,001).<sup>1</sup> Mediana de MFS de 40,5 meses con Erleada® + TDA vs. 16,2 meses con placebo + TDA (HR 0,28; IC 95%, 0,23-0,35; p <0,001).<sup>3</sup><br></br>
-          <sup>*</sup>Erleada® está indicado en hombres adultos para el tratamiento del cáncer de próstata hormonosensible metastásico (CPHSm) en combinación con tratamiento de deprivación androgénica (TDA).2<br></br>
+          TITAN es un estudio fase III, aleatorizado, doble ciego, controlado con placebo, multinacional que evaluó Erleada<sup>®</sup> + TDA vs. placebo + TDA en pacientes con cáncer de próstata sensible a la castración metastásico.<sup>1</sup><br></br>
+          <sup>σ</sup>Mediana de rPFS no alcanzada con Erleada<sup>®</sup> + TDA vs. 22,1 meses con placebo + TDA (HR: 0,48; IC 95%: 0,39-0,60; p<0,001).<sup>1</sup> Mediana de MFS de 40,5 meses con Erleada<sup>®</sup> + TDA vs. 16,2 meses con placebo + TDA (HR 0,28; IC 95%, 0,23-0,35; p <0,001).<sup>3</sup><br></br>
+          <sup>*</sup>Erleada<sup>®</sup> está indicado en hombres adultos para el tratamiento del cáncer de próstata hormonosensible metastásico (CPHSm) en combinación con tratamiento de deprivación androgénica (TDA).2<br></br>
           <strong>CPHSm:</strong> cáncer de próstata hormonosensible metastásico; <strong>HR:</strong>: hazard ratio; <strong>IC:</strong>: intervalo de confianza; <strong>MFS:</strong> supervivencia libre de metástasis; <strong>NHT:</strong> new hormonal therapy; <strong>OS:</strong> supervivencia global; <strong>rPFS:</strong> supervivencia libre de progresión radiológica; <strong>TDA:</strong> terapia de deprivación androgénica.<br></br>
-        <strong>Referencias:</strong> <strong>1.</strong> Chi KN, et al. Apalutamide for Metastatic, Castration-Sensitive Prostate Cancer. N Engl J Med. 2019;81(1):13–24. <strong>2.</strong> Ficha Técnica Erleada®. <strong>3.</strong> Smith MR, et al. Apalutamide Treatment and Metastasis-free Survival in Prostate Cancer. N Engl J Med.2018;378(15):1408-18.
+        <strong>Referencias:</strong> <strong>1.</strong> Chi KN, et al. Apalutamide for Metastatic, Castration-Sensitive Prostate Cancer. N Engl J Med. 2019;81(1):13–24. <strong>2.</strong> Ficha Técnica Erleada<sup>®</sup>. <strong>3.</strong> Smith MR, et al. Apalutamide Treatment and Metastasis-free Survival in Prostate Cancer. N Engl J Med.2018;378(15):1408-18.
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="" background-repeat="repeat" border="0px solid #ffffff" padding-left="0px" padding-right="0px" padding="0px" text-align="center" >
       <mj-column padding="0">
-        <mj-image align="center" alt="Janssen Oncology parmaceutical companies of Johnson & Johnson " border="none" height="auto" href="" padding="0" src="http://development.pdg.studio/veeva/images/veeva-lanzamiento-erleaada_06.gif"
+        <mj-image align="center" alt="Janssen Oncology parmaceutical companies of Johnson & Johnson " border="none" height="auto" href="" padding="0" src="http://development.pdg.studio/veeva/titan_eficiencia/images/veeva-lanzamiento-erleaada_06.gif"
           target="_blank" title="" width="600px"></mj-image>
       </mj-column>
     </mj-section>

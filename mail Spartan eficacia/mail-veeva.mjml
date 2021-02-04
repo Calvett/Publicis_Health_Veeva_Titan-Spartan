@@ -41,22 +41,23 @@
     <mj-section background-color="#ffffff" background-repeat="repeat" border="0px solid #ffffff" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" text-align="center" >
       <mj-column>
         <mj-text align="left" color="#000000" font-family="Verdana, sans-serif" font-size="9px" padding-bottom="0px" padding-top="0px" padding="10px 25px">
-          <h3 class="text-build-content" style="text-align:center; margin-top: 10px; margin-bottom: 10px" data-testid="0AcfZftNq"><span style="color:#333333;font-family:Verdana;font-size:9px;line-height:15px;">YA DISPONIBLE
+          <h3 class="text-build-content" style="text-align:center; margin-top: 10px; margin-bottom: 10px" data-testid="0AcfZftNq"><span style="color:#333333;font-family:Verdana;font-size:9px;line-height:15px;">
+            Resultados de eficacia
             </span></h3>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" border="0px solid #ffffff" padding="0 0 32px 0" text-align="center">
       <mj-column>
-        <mj-image align="right" alt="CPHSm ya disponible 2 indicaciones CPRC mo PSA-DT <= 10 meses EL PODER DE RETRASAR LA PROGRESIÓN CUANTO ANTES" border="none" height="auto" href="" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-lanzamiento-erleaada.jpg" target="_blank" title="" width="600px"></mj-image>
+        <mj-image align="right" alt="CPHSm ya disponible 2 indicaciones CPRC mo PSA-DT <= 10 meses EL PODER DE RETRASAR LA PROGRESIÓN CUANTO ANTES" border="none" height="auto" href="" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/spartan_eficiencia/images/veeva-lanzamiento-erleaada.jpg" target="_blank" title="" width="600px"></mj-image>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" margin="" padding="" text-align="center" css-class="padding_mobile_box">
       <mj-column background-color="#e9e3ed" padding="">
         <mj-text align="left" color="#491c6b" line-height="18px" font-family="Verdana, sans-serif" font-size="14px"  padding="16px 26px" css-class="padding_mobile">
-            Desde el 1 de febrero, Erleada® <span style="font-weight: bold; color: #491c6b;font-size:18px;text-transform: uppercase;">ya está disponible</span> para los pacientes con CPRC M0 de alto riesgo gracias a los resultados del <span style="font-weight:bold;">estudio SPARTAN<sup>2</sup></span><br><br>
-            <span style="font-weight:bold;">Erleada® + TDA aumenta la OS alcanzando una medianade MÁS DE 6 AÑOS<sup>#</sup></span> aportando <span style="font-weight:bold;">21,1 meses</span> adicionales vs placebo + TDA<sup>†2</sup>
+            Desde el 1 de febrero, Erleada<sup>®</sup> <span style="font-weight: bold; color: #491c6b;font-size:18px;text-transform: uppercase;">ya está disponible</span> para los pacientes con CPRC M0 de alto riesgo gracias a los resultados del <span style="font-weight:bold;">estudio SPARTAN<sup>2</sup></span><br><br>
+            <span style="font-weight:bold;">Erleada<sup>®</sup> + TDA aumenta la OS alcanzando una mediana de MÁS DE 6 AÑOS<sup>#</sup></span> aportando <span style="font-weight:bold;">21,1 meses</span> adicionales vs placebo + TDA<sup>†2</sup>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -65,10 +66,11 @@
         <mj-column css-class="cta_wrapper">
           <mj-text align="center" color="#491c6b" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
             <p class="text-build-content" data-testid="fuMEp64KoC-_" style="margin: 0 0 10px 0; line-height:20px;color:#5b5b5f;">
-              <span style="font-weight: bold; color: #491c6b;font-size:17px;display:block;margin:0 0 10px 0;text-transform: uppercase;margin:0 ;">
+              <span style="font-weight: bold; color: #491c6b;font-size:17px;display:block;margin:0;text-transform: uppercase;">
                 Para más información</span>
             </p>
           </mj-text>
+          <mj-divider padding="0 0 10px 0" border-style="" border-color="" />
           <mj-button href="http://www.janssenmedicalcloud.es/product/erleada/spartan/obj-secundarios?utm_source=iconnect&utm_medium=email&codsId=%7B%7BAccount.CODS_External_Id__c%7D%7D&emailId=%7B%7BApproved_Document_vod__c.Vault_Document_ID_vod__c%7D%7D&utm_campaign=%7B%7BApproved_Document_vod__c.Vault_Document_ID_vod__c%7D%7D&ea=1bd5c53d-c9d7-4895-857c-e49a8811990e" align="center" background-color="#491c6b" border-radius="0px" border="0px solid #ffffff" color="#ffffff" font-family="Verdana, sans-serif" font-size="18px" font-weight="normal" inner-padding="10px 25px 10px 25px"  padding="0" text-decoration="none" text-transform="none" vertical-align="middle">
             <span style="font-size:18px;font-weight:bold;line-height:24px;">HAZ CLIC AQUÍ</span>
           </mj-button>
@@ -103,19 +105,19 @@
         <mj-text align="justify" color="#333333" font-family="Verdana, sans-serif" font-size="10px" line-height="15px" padding-bottom="0px" padding-top="10px" padding="10px 25px">
           ▼ Este medicamento está sujeto a seguimiento adicional, es prioritaria la notificación de sospechas de reacciones adversas a este medicamento.<br><br>
           SPARTAN es un estudio fase III, aleatorizado, doble ciego, controlado con placebo, realizado en pacientes con CPRC M0 y PSA-DT ≤ 10 meses y que evalúa Erleada<sup>®</sup>® + TDA vs. placebo + TDA.<sup>2</sup><br><br>
-          <sup>*</sup>Erleada® está indicado en hombres adultos para el tratamiento del cáncer de próstata resistente a la castración no metastásico (CPRC-nm) con alto riesgo de desarrollar metástasis¥ y en hombres adultos para el tratamiento del cáncer de próstata hormonosensible metastásico (CPHSm) en combinación con tratamiento de deprivación androgénica (TDA).<sup>1</sup><br><br>
+          <sup>*</sup>Erleada<sup>®</sup> está indicado en hombres adultos para el tratamiento del cáncer de próstata resistente a la castración no metastásico (CPRC-nm) con alto riesgo de desarrollar metástasis¥ y en hombres adultos para el tratamiento del cáncer de próstata hormonosensible metastásico (CPHSm) en combinación con tratamiento de deprivación androgénica (TDA).<sup>1</sup><br><br>
           <sup>¥</sup>Son aquellos pacientes con un PSA-DT menor o igual a 10 meses.<br><br>
           <sup>#</sup>6 años según el siguiente cálculo: 6 años = 1 año x 12 meses x 6 = 72 meses; 73,9 meses >6 años.<br><br>
-          <sup>σ</sup>Mediana de rPFS no alcanzada con Erleada® + TDA vs. 22,1 meses con placebo + TDA (HR: 0,48; IC 95%: 0,39-0,60; p<0,001).<sup>3</sup> Mediana de MFS de 40,5 meses con Erleada® + TDA vs. 16,2 meses con placebo + TDA (HR 0,28; IC 95%, 0,23-0,35; p <0,001).<sup>4</sup><br><br>
-          <sup>†</sup>Con el método de ajuste <i>naïve censoring</i>, la mediana de OS fue de 73,9 (IC 95%, 61,2-NA) meses en el grupo de Erleada® y 52,8 (IC 95%, 48,5-61,1) meses en el grupo de placebo (HR: 0,69; IC 95%, 0,56-0,84; p=0,0002). De forma similar, con el método de ajuste <i>inverse probability of censoring weighted analysis</i>, la mediana de OS fue de 73,9 meses con Erleada® y 52,8 meses con placebo (HR: 0,69; IC 95%, 0,56–0,84; p=0,0003). Ambos análisis de sensibilidad demostraron un aumento de la OS de 21,1 meses con Erleada® vs. placebo. En la población ITT, la mediana de OS fue de 73,9 meses con Erleada® + TDA vs. 59,9 meses con placebo + TDA (HR 0,78; IC 95%, 0,64-0,96; p=0,016.) Esto supone un aumento de la OS de 14 meses con Erleada® vs. placebo.<sup>2</sup><br><br>
-          <strong>CPHSm</strong>: cáncer de próstata hormonosensible metastásico; <strong>CPRC M0</strong>: cáncer de próstata resistente a la castración no metastásico; <strong>HR</strong>: hazard ratio; <strong>IC</strong>: intervalo de confianza; <strong>ITT</strong>: intención de tratar; <strong>MFS</strong>: supervivencia libre de metástasis; <strong>OS</strong>: supervivencia global; <strong>NA</strong>: no alcanzada; <strong>PSA</strong>: antígeno prostático específico; <strong>PSA-DT<strong>: tiempo de duplicación del antígeno prostático específico;<strong>rPFS</strong>: supervivencia libre de progresión radiológica; <strong>TDA</strong>: terapia de deprivación androgénica.
-          <strong>Referencias</strong>: <strong>1</strong>. Ficha técnica de Erleada®. <strong>2</strong>. Smith MR, et al. Apalutamide and Overall Survival in Prostate Cancer. Eur Urol 2021 Jan;79(1):150-158. <strong>3</strong>. Chi KN, et al. Apalutamide for Metastatic, Castration-Sensitive Prostate Cancer. N Engl J Med. 2019;81(1):13–24. <strong>4</strong>. Smith MR, et al. Apalutamide Treatment and Metastasis-free Survival in Prostate Cancer. N Engl J Med.2018;378(15):1408-18.
+          <sup>σ</sup>Mediana de rPFS no alcanzada con Erleada<sup>®</sup> + TDA vs. 22,1 meses con placebo + TDA (HR: 0,48; IC 95%: 0,39-0,60; p<0,001).<sup>3</sup> Mediana de MFS de 40,5 meses con Erleada<sup>®</sup> + TDA vs. 16,2 meses con placebo + TDA (HR 0,28; IC 95%, 0,23-0,35; p <0,001).<sup>4</sup><br><br>
+          <sup>†</sup>Con el método de ajuste <i>naïve censoring</i>, la mediana de OS fue de 73,9 (IC 95%, 61,2-NA) meses en el grupo de Erleada<sup>®</sup> y 52,8 (IC 95%, 48,5-61,1) meses en el grupo de placebo (HR: 0,69; IC 95%, 0,56-0,84; p=0,0002). De forma similar, con el método de ajuste <i>inverse probability of censoring weighted analysis</i>, la mediana de OS fue de 73,9 meses con Erleada<sup>®</sup> y 52,8 meses con placebo (HR: 0,69; IC 95%, 0,56–0,84; p=0,0003). Ambos análisis de sensibilidad demostraron un aumento de la OS de 21,1 meses con Erleada<sup>®</sup> vs. placebo. En la población ITT, la mediana de OS fue de 73,9 meses con Erleada<sup>®</sup> + TDA vs. 59,9 meses con placebo + TDA (HR 0,78; IC 95%, 0,64-0,96; p=0,016.) Esto supone un aumento de la OS de 14 meses con Erleada<sup>®</sup> vs. placebo.<sup>2</sup><br><br>
+          <strong>CPHSm</strong>: cáncer de próstata hormonosensible metastásico; <strong>CPRC M0</strong>: cáncer de próstata resistente a la castración no metastásico; <strong>HR</strong>: hazard ratio; <strong>IC</strong>: intervalo de confianza; <strong>ITT</strong>: intención de tratar; <strong>MFS</strong>: supervivencia libre de metástasis; <strong>OS</strong>: supervivencia global; <strong>NA</strong>: no alcanzada; <strong>PSA</strong>: antígeno prostático específico; <strong>PSA-DT</strong>: tiempo de duplicación del antígeno prostático específico; <strong>rPFS</strong>: supervivencia libre de progresión radiológica; <strong>TDA</strong>: terapia de deprivación androgénica.
+          <strong>Referencias</strong>: <strong>1</strong>. Ficha técnica de Erleada<sup>®</sup>. <strong>2</strong>. Smith MR, et al. Apalutamide and Overall Survival in Prostate Cancer. Eur Urol 2021 Jan;79(1):150-158. <strong>3</strong>. Chi KN, et al. Apalutamide for Metastatic, Castration-Sensitive Prostate Cancer. N Engl J Med. 2019;81(1):13–24. <strong>4</strong>. Smith MR, et al. Apalutamide Treatment and Metastasis-free Survival in Prostate Cancer. N Engl J Med.2018;378(15):1408-18.
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="" background-repeat="repeat" border="0px solid #ffffff" padding-left="0px" padding-right="0px" padding="0px" text-align="center" >
       <mj-column padding="0">
-        <mj-image align="center" alt="Janssen Oncology parmaceutical companies of Johnson & Johnson " border="none" height="auto" href="" padding="0" src="http://development.pdg.studio/veeva/images/veeva-lanzamiento-erleaada_06.gif"
+        <mj-image align="center" alt="Janssen Oncology parmaceutical companies of Johnson & Johnson " border="none" height="auto" href="" padding="0" src="http://development.pdg.studio/veeva/spartan_eficiencia/images/veeva-lanzamiento-erleaada_06.gif"
           target="_blank" title="" width="600px"></mj-image>
       </mj-column>
     </mj-section>

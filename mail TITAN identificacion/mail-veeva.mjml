@@ -41,46 +41,48 @@
     <mj-section background-color="#ffffff" background-repeat="repeat" border="0px solid #ffffff" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" text-align="center" >
       <mj-column>
         <mj-text align="left" color="#000000" font-family="Verdana, sans-serif" font-size="9px" padding-bottom="0px" padding-top="0px" padding="10px 25px">
-          <h3 class="text-build-content" style="text-align:center; margin-top: 10px; margin-bottom: 10px" data-testid="0AcfZftNq"><span style="color:#333333;font-family:Verdana;font-size:9px;line-height:15px;">YA DISPONIBLE
+          <h3 class="text-build-content" style="text-align:center; margin-top: 10px; margin-bottom: 10px" data-testid="0AcfZftNq"><span style="color:#333333;font-family:Verdana;font-size:9px;line-height:15px;">
+            ERLEADA® en CPHSm
             </span></h3>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" border="0px solid #ffffff" padding="0 0 32px 0" text-align="center">
       <mj-column>
-        <mj-image align="right" alt="Primera y única NHT disponible para todos los pacientes CPHSm " border="none" height="auto" href="" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-lanzamiento-erleaada.jpg" target="_blank" title="" width="600px"></mj-image>
+        <mj-image align="right" alt="Primera y única NHT disponible para todos los pacientes CPHSm " border="none" height="auto" href="" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/titan_identificacion/images/veeva-lanzamiento-erleaada.jpg" target="_blank" title="" width="600px"></mj-image>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" margin="" padding="" text-align="center" css-class="padding_mobile_box">
       <mj-column background-color="#eef2f7" padding="">
         <mj-text align="left" color="#7798bc" line-height="18px" font-family="Verdana, sans-serif" font-size="14px"  padding="16px 26px" css-class="padding_box_sp">
-            Desde el 1 de febrero, Erleada® <span style="font-weight: bold; color: #7798bc;font-size:18px;text-transform: uppercase;">ya está disponible</span> para los pacientes con CPHSm<sup>2</sup>
+            Desde el 1 de febrero, Erleada<sup>®</sup> <span style="font-weight: bold; color: #7798bc;font-size:18px;text-transform: uppercase;">ya está disponible</span> para los pacientes con CPHSm<sup>2</sup>
         </mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" margin="" padding="" text-align="center" css-class="padding_mobile_box">
       <mj-column width="100%" >
-        <mj-section background-color="#eef2f7" background-repeat="repeat" background-size="auto" margin="" padding="0 0 0 0" text-align="center" css-class="padding_box">
+        <mj-section background-color="#eef2f7" background-repeat="repeat" background-size="auto" margin="" padding="0 0 0 0" text-align="center" css-class="">
           <mj-column width="10%" css-class="mobile_10" >
-            <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-icon-tick.gif" title="" ></mj-image>
+            <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/titan_identificacion/images/veeva-icon-tick.gif" title="" ></mj-image>
           </mj-column>
           <mj-column width="90%" css-class="mobile_90">
             <mj-text align="left" color="#7798bc" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
               <p class="text-build-content" data-testid="fuMEp64KoC-_" style="margin: 0; margin-top: 0px; margin-bottom: 0px; line-height:20px;color:#7798bc;">
-                En <span style="font-weight: bold; color: #7798bc;">recaída</span> tras un diagnóstico de enfermedad <span style="font-weight: bold; color: #7798bc;">local</span> oenfermedad metastásica de <span style="font-weight: bold; color: #7798bc;">novo</span>
+                En <span style="font-weight: bold; color: #7798bc;">recaída</span> tras un diagnóstico de enfermedad <span style="font-weight: bold; color: #7798bc;">local</span> o enfermedad metastásica de <span style="font-weight: bold; color: #7798bc;">novo</span>
               </p>
             </mj-text>
+            <mj-divider padding="0 0 10px 0" border-style="" border-color="" />
           </mj-column>
         </mj-section>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" margin="" padding="" text-align="center" css-class="padding_mobile_box">
       <mj-column width="100%" >
-        <mj-section background-color="#eef2f7" background-repeat="repeat" background-size="auto" margin="" padding="0" text-align="center" css-class="padding_box">
+        <mj-section background-color="#eef2f7" background-repeat="repeat" background-size="auto" margin="" padding="0" text-align="center" css-class="">
           <mj-column width="10%" css-class="mobile_10" >
-            <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-icon-tick.gif" title="" ></mj-image>
+            <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/titan_identificacion/images/veeva-icon-tick.gif" title="" ></mj-image>
           </mj-column>
           <mj-column width="90%" css-class="mobile_90">
             <mj-text align="left" color="#7798bc" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
@@ -88,15 +90,16 @@
                 Enfermedad de <span style="font-weight: bold; color: #7798bc;">alto</span> o <span style="font-weight: bold; color: #7798bc;">bajo volumen</span>
               </p>
             </mj-text>
+            <mj-divider padding="0 0 10px 0" border-style="" border-color="" />
           </mj-column>
         </mj-section>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" margin="" padding="" text-align="center" css-class="padding_mobile_box">
       <mj-column width="100%" >
-        <mj-section background-color="#eef2f7" background-repeat="repeat" background-size="auto" margin="" padding="0 0 16px 0" text-align="center" css-class="padding_box">
+        <mj-section background-color="#eef2f7" background-repeat="repeat" background-size="auto" margin="" padding="0 0 16px 0" text-align="center" css-class="">
           <mj-column width="10%" css-class="mobile_10" >
-            <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-icon-tick.gif" title="" ></mj-image>
+            <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/titan_identificacion/images/veeva-icon-tick.gif" title="" ></mj-image>
           </mj-column>
           <mj-column width="90%" css-class="mobile_90">
             <mj-text align="left" color="#7798bc" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
@@ -104,6 +107,7 @@
                 <span style="font-weight: bold; color: #7798bc;">Con</span> o <span style="font-weight: bold; color: #7798bc;">sin</span> tratamiento previo con <span style="font-weight: bold; color: #7798bc;">docetaxel</span>
               </p>
             </mj-text>
+            <mj-divider padding="0 0 10px 0" border-style="" border-color="" />
           </mj-column>
         </mj-section>
       </mj-column>
@@ -111,13 +115,14 @@
 
 
 
-    <mj-section background-color="white" background-size="auto" padding-bottom="0px" padding-top="10px" padding="0px 0 20px 0" text-align="center">
+    <mj-section background-color="white" background-size="auto" padding-bottom="0px" padding-top="10px" padding=" 0" text-align="center">
         <mj-column css-class="cta_wrapper" width="85%">
-          <mj-text align="center" color="#7798bc" font-family="Verdana, sans-serif" font-size="17px"  padding-bottom="20px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 20px 25px">
+          <mj-text align="center" color="#7798bc" font-family="Verdana, sans-serif" font-size="17px"  padding-bottom="0" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 20px 25px">
             <span style="font-weight: bold; color: #7798bc;font-size:17px;display:block;">
-              Si quieres saber más sobre cómo identificar alos pacientes candidatos a recibir Erleada<sup>®</sup>:
+              Si quieres saber más sobre cómo identificar a los pacientes candidatos a recibir Erleada<sup>®</sup>:
             </span>
           </mj-text>
+          <mj-divider padding="0 0 10px 0" border-style="" border-color="" />
           <mj-button href="http://www.janssenmedicalcloud.es/product/erleada/titan/pacientes?utm_source=iconnect&utm_medium=email&codsId={{Account.CODS_External_Id__c}}&emailId={{Approved_Document_vod__c.Vault_Document_ID_vod__c}}&utm_campaign={{Approved_Document_vod__c.Vault_Document_ID_vod__c}}&ea=1bd5c53d-c9d7-4895-857c-e49a8811990e" align="center" background-color="#7798bc" border-radius="0px" border="0px solid #ffffff" color="#ffffff" font-family="Verdana, sans-serif" font-size="18px" font-weight="normal" inner-padding="10px 25px 10px 25px"  padding="0" text-decoration="none" text-transform="none" vertical-align="middle">
             <span style="font-size:18px;font-weight:bold;line-height:24px;">HAZ CLIC AQUÍ</span>
           </mj-button>
@@ -140,7 +145,6 @@
       <mj-column>
         <mj-text align="left" color="#000000" font-family="Verdana, sans-serif" font-size="14px" letter-spacing="normal" padding-bottom="10px" padding-top="10px" padding="0px 25px 0px 25px">
             <span style="color:#333333;font-family:Verdana;font-size:14px;line-height:20px;">Un cordial saludo,<br></span>
-              <span style="color:#333333;font-family:Verdana;font-size:14px;line-height:20px;display:block;">Equipo Janssen Oncology</span>
               <span style="color:#333333;font-family:Verdana;font-size:14px;line-height:20px;">{{userName}}</span>
         </mj-text>
       </mj-column>
@@ -150,18 +154,18 @@
     <mj-section background-color="#ffffff" background-repeat="repeat" border="0px solid #ffffff" padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" text-align="center" >
       <mj-column>
         <mj-text align="justify" color="#333333" font-family="Verdana, sans-serif" font-size="12px" line-height="16px" padding-bottom="0px" padding-top="10px" padding="10px 25px">
-          Ficha técnica de Erleada® disponible <a href="" target="_blank">aquí</a>.<br>
+          Ficha técnica de Erleada<sup>®</sup> disponible <a href="https://www.janssenmedicalcloud.es/product/erleada/ficha-tecnica?ea=1bd5c53d-c9d7-4895-857c-e49a8811990e" target="_blank">aquí</a>.<br>
           ▼ Este medicamento está sujeto a seguimiento adicional, es prioritaria la notificación de sospechas de reacciones adversas a este medicamento.<br><br>
-          TITAN es un estudio fase III, aleatorizado, doble ciego, controlado con placebo, multinacional que evaluó Erleada® + TDA vs. placebo + TDA en pacientes con cáncer de próstata sensible a la castración metastásico.<sup>2</sup><br><br>
-          <sup>*</sup>Erleada® está indicado en hombres adultos para el tratamiento del cáncer de próstata hormonosensible metastásico (CPHSm) en combinación con tratamiento de deprivación androgénica (TDA).<sup>1</sup><br><br>
+          TITAN es un estudio fase III, aleatorizado, doble ciego, controlado con placebo, multinacional que evaluó Erleada<sup>®</sup> + TDA vs. placebo + TDA en pacientes con cáncer de próstata sensible a la castración metastásico.<sup>2</sup><br><br>
+          <sup>*</sup>Erleada<sup>®</sup> está indicado en hombres adultos para el tratamiento del cáncer de próstata hormonosensible metastásico (CPHSm) en combinación con tratamiento de deprivación androgénica (TDA).<sup>1</sup><br><br>
           <strong>CPHSm</strong>: cáncer de próstata hormonosensible metastásico; <strong>NHT</strong>: <i>new hormonal therapy</i>; <strong>TDA</strong>: terapia de deprivación androgénica.<br><br>
-          <strong>Referencias</strong>: <strong>1</strong>. Ficha Técnica Erleada®. <strong>2</strong>. Chi KN, et al. Apalutamide for Metastatic, Castration-Sensitive Prostate Cancer. N Engl J Med. 2019;81(1):13–24.
+          <strong>Referencias</strong>: <strong>1</strong>. Ficha Técnica Erleada<sup>®</sup>. <strong>2</strong>. Chi KN, et al. Apalutamide for Metastatic, Castration-Sensitive Prostate Cancer. N Engl J Med. 2019;81(1):13–24.
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="" background-repeat="repeat" border="0px solid #ffffff" padding-left="0px" padding-right="0px" padding="0px" text-align="center" >
       <mj-column padding="0">
-        <mj-image align="center" alt="Janssen Oncology parmaceutical companies of Johnson & Johnson " border="none" height="auto" href="" padding="0" src="http://development.pdg.studio/veeva/images/veeva-lanzamiento-erleaada_06.gif"
+        <mj-image align="center" alt="Janssen Oncology parmaceutical companies of Johnson & Johnson " border="none" height="auto" href="" padding="0" src="http://development.pdg.studio/veeva/titan_identificacion/images/veeva-lanzamiento-erleaada_06.gif"
           target="_blank" title="" width="600px"></mj-image>
       </mj-column>
     </mj-section>
