@@ -42,14 +42,14 @@
       <mj-column>
         <mj-text align="left" color="#000000" font-family="Verdana, sans-serif" font-size="9px" padding-bottom="0px" padding-top="0px" padding="10px 25px">
           <h3 class="text-build-content" style="text-align:center; margin-top: 10px; margin-bottom: 10px" data-testid="0AcfZftNq"><span style="color:#333333;font-family:Verdana;font-size:9px;line-height:15px;">
-            ERLEADA<sup>®</sup> en CPRC M0 PSA-DT ≤10 meses
+            Identificación de pacientes
             </span></h3>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" border="0px solid #ffffff" padding="0 0 32px 0" text-align="center">
       <mj-column>
-        <mj-image align="right" alt="Primera y única NHT disponible para todos los pacientes CPHSm EL PODER DE RETRASAR LA PROGRESIÓN CUANTO ANTES" border="none" height="auto" href="" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/spartan_identificacion/images/veeva-lanzamiento-erleaada.jpg" target="_blank" title="" width="600px"></mj-image>
+        <mj-image align="right" alt="Primera y única NHT disponible para todos los pacientes CPHSm EL PODER DE RETRASAR LA PROGRESIÓN CUANTO ANTES" border="none" height="auto" href="" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-lanzamiento-erleaada.jpg" target="_blank" title="" width="600px"></mj-image>
       </mj-column>
     </mj-section>
 
@@ -65,7 +65,7 @@
       <mj-column width="100%" >
         <mj-section background-color="#e9e3ed" background-repeat="repeat" background-size="auto" margin="" padding="0 0 0 0" text-align="center" css-class="">
           <mj-column width="10%" css-class="mobile_10" >
-            <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/spartan_identificacion/images/veeva-icon-tick.gif" title="" ></mj-image>
+            <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-icon-tick.gif" title="" ></mj-image>
           </mj-column>
           <mj-column width="90%" css-class="mobile_90">
             <mj-text align="left" color="#491c6b" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
@@ -82,7 +82,7 @@
       <mj-column width="100%" >
         <mj-section background-color="#e9e3ed" background-repeat="repeat" background-size="auto" margin="" padding="0" text-align="center" css-class="">
           <mj-column width="10%" css-class="mobile_10" >
-            <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/spartan_identificacion/images/veeva-icon-tick.gif" title="" ></mj-image>
+            <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-icon-tick.gif" title="" ></mj-image>
           </mj-column>
           <mj-column width="90%" css-class="mobile_90">
             <mj-text align="left" color="#491c6b" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
@@ -99,7 +99,7 @@
       <mj-column width="100%" >
         <mj-section background-color="#e9e3ed" background-repeat="repeat" background-size="auto" margin="" padding="0 0 0 0" text-align="center" css-class="">
           <mj-column width="10%" css-class="mobile_10" >
-            <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/spartan_identificacion/images/veeva-icon-tick.gif" title="" ></mj-image>
+            <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-icon-tick.gif" title="" ></mj-image>
           </mj-column>
           <mj-column width="90%" css-class="mobile_90">
             <mj-text align="left" color="#491c6b" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
@@ -116,7 +116,7 @@
       <mj-column width="100%" >
         <mj-section background-color="#e9e3ed" background-repeat="repeat" background-size="auto" margin="" padding="0 0 16px 0" text-align="center" css-class="">
           <mj-column width="10%" css-class="mobile_10" >
-            <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/spartan_identificacion/images/veeva-icon-tick.gif" title="" ></mj-image>
+            <mj-image align="right" alt="Icono check" border="none" width="20px" height="20px" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-icon-tick.gif" title="" ></mj-image>
           </mj-column>
           <mj-column width="90%" css-class="mobile_90">
             <mj-text align="left" color="#491c6b" font-family="Verdana, sans-serif" font-size="14px"  padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="0px 25px 0px 25px">
@@ -173,7 +173,7 @@
           Ficha técnica de Erleada<sup>®</sup> disponible <a href="https://www.janssenmedicalcloud.es/product/erleada/ficha-tecnica?ea=1bd5c53d-c9d7-4895-857c-e49a8811990e" target="_blank">aquí</a>.<br>
           ▼ Este medicamento está sujeto a seguimiento adicional, es prioritaria la notificación de sospechas de reacciones adversas a este medicamento.<br><br>
           SPARTAN es un estudio fase III, aleatorizado, doble ciego, controlado con placebo, realizado en pacientes con CPRC M0 y PSA-DT ≤10 meses y que evalúa Erleada<sup>®</sup> + TDA vs. placebo + TDA.<sup>2</sup><br><br>
-          <sup>*</sup>Erleada<sup>®</sup> está indicado en hombres adultos para el tratamiento del cáncer de próstata resistente a la castración no metastásico (CPRC-nm) con alto riesgo de desarrollar metástasis¥ y en hombres adultos para el tratamiento del cáncer de próstata hormonosensible metastásico (CPHSm) en combinación con tratamiento de deprivación androgénica (TDA).<sup>1</sup><br><br>
+          <sup>*</sup>Erleada<sup>®</sup> está indicado en hombres adultos para el tratamiento del cáncer de próstata resistente a la castración no metastásico (CPRC-nm) con alto riesgo de desarrollar metástasis<sup>¥</sup> y en hombres adultos para el tratamiento del cáncer de próstata hormonosensible metastásico (CPHSm) en combinación con tratamiento de deprivación androgénica (TDA).<sup>1</sup><br><br>
           <sup>¥</sup>Son aquellos pacientes con un PSA-DT menor o igual a 10 meses.<br><br>
            <strong>CPHSm</strong>: cáncer de próstata hormonosensible metastásico; <strong>CPRC M0</strong>: cáncer de próstata resistente a la castración no metastásico; <strong>GO</strong>: gammagrafía ósea; <strong>PSA</strong>: antígeno prostático específico; <strong>PSA-DT</strong>: tiempo de duplicación del antígeno prostático específico; <strong>TAC</strong>: tomografía axial computarizada; <strong>TDA</strong>: terapia de deprivación androgénica.<br><br>
            <strong>Referencias</strong>: <strong>1.</strong> Ficha técnica de Erleada<sup>®</sup>. <strong>2.</strong> Smith MR, et al. Apalutamide Treatment and Metastasis-free Survival in Prostate Cancer. N Engl J Med.2018;378(15):1408-18.
@@ -182,7 +182,7 @@
     </mj-section>
     <mj-section background-color="" background-repeat="repeat" border="0px solid #ffffff" padding-left="0px" padding-right="0px" padding="0px" text-align="center" >
       <mj-column padding="0">
-        <mj-image align="center" alt="Janssen Oncology parmaceutical companies of Johnson & Johnson " border="none" height="auto" href="" padding="0" src="http://development.pdg.studio/veeva/spartan_identificacion/images/veeva-lanzamiento-erleaada_06.gif"
+        <mj-image align="center" alt="Janssen Oncology parmaceutical companies of Johnson & Johnson " border="none" height="auto" href="" padding="0" src="images/veeva-lanzamiento-erleaada_06.gif"
           target="_blank" title="" width="600px"></mj-image>
       </mj-column>
     </mj-section>

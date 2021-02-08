@@ -49,7 +49,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" border="0px solid #ffffff" padding="0 0 32px 0" text-align="center">
       <mj-column>
-        <mj-image align="right" alt="CPHSm ya disponible 2 indicaciones CPRC mo PSA-DT <= 10 meses EL PODER DE RETRASAR LA PROGRESIÓN CUANTO ANTES" border="none" height="auto" href="" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="http://development.pdg.studio/veeva/spartan_seguridad/images/veeva-lanzamiento-erleaada.jpg" target="_blank" title="" width="600px"></mj-image>
+        <mj-image align="right" alt="CPHSm ya disponible 2 indicaciones CPRC mo PSA-DT <= 10 meses EL PODER DE RETRASAR LA PROGRESIÓN CUANTO ANTES" border="none" height="auto" href="" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px" src="images/veeva-lanzamiento-erleaada.jpg" target="_blank" title="" width="600px"></mj-image>
       </mj-column>
     </mj-section>
 
@@ -107,7 +107,7 @@
           Ficha técnica de Erleada<sup>®</sup> disponible <a href="https://www.janssenmedicalcloud.es/product/erleada/ficha-tecnica?ea=1bd5c53d-c9d7-4895-857c-e49a8811990e" target="_blank">aquí</a>.<br>
           ▼ Este medicamento está sujeto a seguimiento adicional, es prioritaria la notificación de sospechas de reacciones adversas a este medicamento.<br><br>
           SPARTAN es un estudio fase III, aleatorizado, doble ciego, controlado con placebo, realizado en pacientes con CPRC M0 y PSA-DT ≤10 meses y que evalúa Erleada<sup>®</sup> + TDA vs. placebo + TDA.<sup>2</sup><br><br>
-          <sup>*</sup>Erleada<sup>®</sup> está indicado en hombres adultos para el tratamiento del cáncer de próstata resistente a la castración no metastásico (CPRC-nm) con alto riesgo de desarrollar metástasis¥ y en hombres adultos para el tratamiento del cáncer de próstata hormonosensible metastásico (CPHSm) en combinación con tratamiento de deprivación androgénica (TDA).<sup>1</sup><br><br>
+          <sup>*</sup>Erleada<sup>®</sup> está indicado en hombres adultos para el tratamiento del cáncer de próstata resistente a la castración no metastásico (CPRC-nm) con alto riesgo de desarrollar metástasis<sup>¥</sup> y en hombres adultos para el tratamiento del cáncer de próstata hormonosensible metastásico (CPHSm) en combinación con tratamiento de deprivación androgénica (TDA).<sup>1</sup><br><br>
           <sup>¥</sup>Son aquellos pacientes con un PSA-DT menor o igual a 10 meses.<br><br>
           <sup>σ</sup>Mediana de rPFS no alcanzada con Erleada<sup>®</sup> + TDA vs. 22,1 meses con placebo + TDA (HR: 0,48; IC 95%: 0,39-0,60; p<0,001).3 Mediana de MFS de 40,5 meses con Erleada<sup>®</sup> + TDA vs. 16,2 meses con placebo + TDA (HR 0,28; IC 95%, 0,23-0,35; p <0,001).<sup>4</sup><br><br>
           <sup>†</sup>No se detectaron nuevas señales de seguridad con el seguimiento adicional. Aunque la mediana de duración del tratamiento fue casi 3 veces superior con Erleada<sup>®</sup> que con placebo (32,9 vs. 11,5 meses), la tasa de eventos adversos ajustada por exposición en el grupo de Erleada<sup>®</sup> no difirió de forma sustancial.<sup>2</sup><br><br>
@@ -119,7 +119,7 @@
     </mj-section>
     <mj-section background-color="" background-repeat="repeat" border="0px solid #ffffff" padding-left="0px" padding-right="0px" padding="0px" text-align="center" >
       <mj-column padding="0">
-        <mj-image align="center" alt="Janssen Oncology parmaceutical companies of Johnson & Johnson " border="none" height="auto" href="" padding="0" src="http://development.pdg.studio/veeva/spartan_seguridad/images/veeva-lanzamiento-erleaada_06.gif"
+        <mj-image align="center" alt="Janssen Oncology parmaceutical companies of Johnson & Johnson " border="none" height="auto" href="" padding="0" src="images/veeva-lanzamiento-erleaada_06.gif"
           target="_blank" title="" width="600px"></mj-image>
       </mj-column>
     </mj-section>
